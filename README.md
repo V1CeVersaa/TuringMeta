@@ -6,7 +6,15 @@
 
 ## 文档结构
 
-|-- README.md
-|-- schedule.md     # 课程表
-|-- resource        # 资源
-|   |-- ...         
+```
+├─ README.md
+├─ schedule.md          ＃ 课程安排
+├─ resource             ＃ 相关资源
+│   ├─ ...  
+└─ series               ＃ 存储课件与讲义
+    ├─ exampleLecture   ＃ 课程示例
+    │   ├─ handout.pdf
+    │   ├─ slides.pdf
+    │   └─ supplement
+    └─ ...   
+```
