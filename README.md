@@ -21,6 +21,7 @@
 ```
 ├─ README.md
 ├─ schedule.md          ＃ 课程安排
+├─ outline.md           ＃ 课程大纲
 ├─ resource             ＃ 相关资源
 │   ├─ ...  
 └─ series               ＃ 存储课件与讲义
